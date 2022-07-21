@@ -4,8 +4,8 @@ from typing import List
 from setuptools import find_packages
 
 ## Declaring variables for setup function.
-PROJECT_NAME = "Housing-Price-Predictor"
-VERSION = "0.0.1"
+PROJECT_NAME = "Housing-Price-Estimation"
+VERSION = "0.0.3"
 AUTHOR = "Sayantan Mitra"
 DESCRIPTION = "This is a regression Machine Learning Project"
 PACKAGES = find_packages()
