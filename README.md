@@ -1,2 +1,2 @@
 Application url:
-[HousingPriceEstimator](https://ml-regression-app01.herokuapp.com/)
+[HousingPricePredictor](https://ml-regression-app01.herokuapp.com/)
