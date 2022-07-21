@@ -1,9 +1,0 @@
-best_model:
-  model_path: C:\Users\sayan\Machine_Learning_Project\artifact\housing\model_trainer\2022-07-21-21-40-32\trained_model\model.pkl
-history:
-  2022-07-21-21-27-20:
-    model_path: C:\Users\sayan\Machine_Learning_Project\artifact\housing\model_trainer\2022-07-21-20-37-23\trained_model\model.pkl
-  2022-07-21-21-35-30:
-    model_path: C:\Users\sayan\Machine_Learning_Project\artifact\housing\model_trainer\2022-07-21-21-27-20\trained_model\model.pkl
-  2022-07-21-21-40-32:
-    model_path: C:\Users\sayan\Machine_Learning_Project\artifact\housing\model_trainer\2022-07-21-21-35-30\trained_model\model.pkl
